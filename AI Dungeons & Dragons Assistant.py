@@ -13,7 +13,7 @@ import openai
 genai.configure(api_key="AIzaSyC2n9rFzR4MTPqNiP16s3gTldue5EVmsUA")  # Replace with your key
 
 # Setup OpenAI API
-openai.api_key = "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"  # Replace with your key
+openai.api_key = "ENTER_YOUR_API_KEY"  # Replace with your key
 
 class DnDAssistant:
     def __init__(self):
